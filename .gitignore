@@ -35,3 +35,4 @@ venv/
 .vscode/
 .idea/
 *.swp
+.Rhistory
