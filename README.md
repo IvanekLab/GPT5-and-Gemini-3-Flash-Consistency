@@ -1,6 +1,6 @@
 # GPT-5 and Gemini 3 Flash Consistency
 
-Code for the paper *"Semantic repeatability and reproducibility of GPT-5 and Gemini 3 Flash on H5N1 One Health questions"* (Dalla Pria, Nelson, & Ivanek, 2026).
+*"Semantic repeatability and reproducibility of GPT-5 and Gemini 3 Flash on H5N1 One Health questions"* (Dalla Pria, Nelson, & Ivanek, 2026).
 
 This repository contains the four Jupyter notebooks used to collect LLM responses from GPT-5 and Gemini 3 Flash and to compute the semantic repeatability, reproducibility, and inter-embedding-agreement statistics reported in the paper.
 
