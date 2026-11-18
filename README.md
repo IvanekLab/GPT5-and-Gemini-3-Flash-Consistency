@@ -102,5 +102,3 @@ This project is licensed under the Apache License 2.0 — see the `LICENSE` file
 ## Acknowledgments
 
 We thank Shyr et al. (2025) for the semantic consistency framework we adapted and extended, and Savage et al. (2024) for the Chain-of-Thought reasoning taxonomy used in the reproducibility analysis.
-
-[TODO: Add funding sources and any additional acknowledgments once finalized.]
