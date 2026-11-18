@@ -1,0 +1,30 @@
+# Python 3.11.3 recommended (the version used in the paper)
+
+# --- Data collection (OpenAI + Google APIs) ---
+openai>=1.54.0
+google-genai>=0.3.0
+aiohttp>=3.9.0
+
+# --- Core numerical + data handling ---
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+
+# --- Embedding models ---
+sentence-transformers>=3.0.0
+huggingface_hub>=0.24.0
+brotli
+brotlicffi
+
+# --- Statistical tests + reliability ---
+pingouin<0.5.5
+statsmodels==0.14.2
+
+# --- Text preprocessing ---
+nltk==3.9.1
+
+# --- Figures ---
+matplotlib==3.9.2
+
+# --- Progress bars ---
+tqdm==4.66.5
