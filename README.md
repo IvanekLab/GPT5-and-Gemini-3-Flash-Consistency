@@ -1,5 +1,7 @@
 # GPT-5 and Gemini 3 Flash Consistency
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24374226.svg)](https://doi.org/10.5281/zenodo.24374226)
+
 *"Semantic repeatability and reproducibility of GPT-5 and Gemini 3 Flash on H5N1 One Health questions"* (Dalla Pria, Nelson, & Ivanek, 2026).
 
 This repository contains the four Jupyter notebooks used to collect LLM responses from GPT-5 and Gemini 3 Flash and to compute the semantic repeatability, reproducibility, and inter-embedding-agreement statistics reported in the paper.
@@ -10,7 +12,7 @@ This repository contains the four Jupyter notebooks used to collect LLM response
 
 If you use this code, please cite the paper:
 
-> Dalla Pria, L., Nelson, A. L., & Ivanek, R. (2026). Semantic repeatability and reproducibility of GPT-5 and Gemini 3 Flash on H5N1 One Health questions. *PLOS Digital Health* [TODO: volume(issue), pages, DOI once accepted].
+> Dalla Pria, L., Nelson, A. L., & Ivanek, R. (2026). Semantic repeatability and reproducibility of GPT-5 and Gemini 3 Flash on H5N1 One Health questions. Submitted to PLOS Digital Health.
 
 BibTeX:
 
@@ -23,7 +25,7 @@ BibTeX:
   note    = {TODO: volume, issue, pages, DOI}
 }
 ```
-
+The code is also archived on Zenodo (DOI: [10.5281/zenodo.24374226](https://doi.org/10.5281/zenodo.24374226)).
 ---
 
 ## What this repository contains
